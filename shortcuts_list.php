@@ -15,7 +15,7 @@
 	}
 	else 
 	{
-		$resp = response(2,"SHORTCUTS_LIST","WRONG USERNAME OR PASSWORD",$params['user'],FALSE);
+		$resp = response(2,"SHORTCUTS_LIST","ACCESS DENIED",$params['user'],FALSE);
 		echo $resp;
 	}
 
