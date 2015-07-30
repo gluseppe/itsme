@@ -2,7 +2,7 @@
 $mysql_host = "localhost";
 $mysql_user = "root";
 $mysql_psw = "123Stella";
-$mysql_db = "authentication";
+$mysql_db = "itsme";
 
 $mysqli = NULL;
 
