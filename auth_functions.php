@@ -1,4 +1,4 @@
-	<?
+<?
 
 	
 	//Used during the login process. Called when the given credentials 
